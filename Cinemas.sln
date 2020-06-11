@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinemas", "Cinemas\Cinemas.csproj", "{2FD53B19-E757-4C1D-B248-13E98D999093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD53B19-E757-4C1D-B248-13E98D999093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD53B19-E757-4C1D-B248-13E98D999093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD53B19-E757-4C1D-B248-13E98D999093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD53B19-E757-4C1D-B248-13E98D999093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D97009F0-BFBE-4E31-9D2D-2F2BBFC0873F}
+	EndGlobalSection
+EndGlobal

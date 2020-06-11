@@ -1,0 +1,9 @@
+C:\Users\rainb\source\repos\Cinemas\Cinemas\bin\Debug\Cinemas.mdf
+C:\Users\rainb\source\repos\Cinemas\Cinemas\bin\Debug\Cinemas_log.ldf
+C:\Users\rainb\source\repos\Cinemas\Cinemas\bin\Debug\Cinemas.exe.config
+C:\Users\rainb\source\repos\Cinemas\Cinemas\bin\Debug\Cinemas.exe
+C:\Users\rainb\source\repos\Cinemas\Cinemas\bin\Debug\Cinemas.pdb
+C:\Users\rainb\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.csprojAssemblyReference.cache
+C:\Users\rainb\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.csproj.CoreCompileInputs.cache
+C:\Users\rainb\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.exe
+C:\Users\rainb\source\repos\Cinemas\Cinemas\obj\Debug\Cinemas.pdb
