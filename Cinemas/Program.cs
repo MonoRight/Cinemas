@@ -49,6 +49,14 @@ namespace Cinemas
                             Console.ReadLine();
                             break;
                         }
+                    case "4":
+                        {
+                            Console.Clear();
+                            ForDecorate dec = new ForDecorate();
+                            dec.FilmsDecorate();
+                            Console.ReadLine();
+                            break;
+                        }
                 }
 
             } while (true);

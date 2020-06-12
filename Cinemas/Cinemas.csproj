@@ -59,6 +59,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConnectionBD.cs" />
+    <Compile Include="Decorator.cs" />
+    <Compile Include="DecoratorActors.cs" />
+    <Compile Include="Film.cs" />
+    <Compile Include="ForDecorate.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ShowTables.cs" />
